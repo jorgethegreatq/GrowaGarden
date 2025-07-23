@@ -1,2 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/jorgethegreatq/GrowaGarden/refs/heads/main/Delta'))()
-loadstring(game:HttpGet("https://pastefy.app/iGqlNpZE/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/mhmRSNTH/raw"))()
